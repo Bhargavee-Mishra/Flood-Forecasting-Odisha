@@ -67,7 +67,7 @@ NeerDrishti/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+   git clone <repository-url>
 
 2. Navigate to the project folder:
 
@@ -81,7 +81,6 @@ git clone <repository-url>
 
    streamlit run neerdrishti_app.py
 
-
 ## 📈 Evaluation
 
 The model performance was evaluated using:
@@ -92,9 +91,7 @@ The model performance was evaluated using:
 • F1-score
 • Confusion Matrix
 
-
 ## 🔮 Future Enhancements
-
 
 - Real-time weather and river data integration
 - GIS-based flood visualization
