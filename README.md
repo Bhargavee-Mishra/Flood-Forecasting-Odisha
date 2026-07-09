@@ -84,7 +84,6 @@ git clone <repository-url>
 
 ## 📈 Evaluation
 
-
 The model performance was evaluated using:
 
 • Accuracy
